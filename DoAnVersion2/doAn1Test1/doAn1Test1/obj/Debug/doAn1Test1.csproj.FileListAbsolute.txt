@@ -1,0 +1,55 @@
+c:\users\admin\documents\visual studio 2015\Projects\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe.config
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.exe
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.pdb
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.pdb
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form1.resources
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form2.resources
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Properties.Resources.resources
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form3.resources
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe.config
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.exe
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.pdb
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.pdb
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csprojResolveAssemblyReference.cache
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form1.resources
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form2.resources
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form3.resources
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Properties.Resources.resources
+E:\doAn1LamXongNhap\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form3.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe.config
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.exe
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.pdb
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.pdb
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form1.resources
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form2.resources
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form3.resources
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Properties.Resources.resources
+C:\Users\Admin\Desktop\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csproj.GenerateResource.Cache
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe.config
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.exe
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.pdb
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.exe
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\bin\Debug\doAn1Test1.pdb
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csprojResolveAssemblyReference.cache
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form1.resources
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form2.resources
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Form3.resources
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.Properties.Resources.resources
+E:\doAn1LamXongNhap1\doan1v7\doAn1Test1\doAn1Test1\obj\Debug\doAn1Test1.csproj.GenerateResource.Cache
